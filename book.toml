@@ -1,0 +1,6 @@
+[book]
+authors = ["古镇天Gugle"]
+language = "en"
+multilingual = false
+src = "doc-src"
+title = "Gugle的Mod开发教程"
